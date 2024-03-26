@@ -13,4 +13,23 @@ html, body {
   justify-items: center;
 }
 
+.button {
+  height: 75px;
+  width: 300px;
+  color: black;
+  background-color: white;
+  border-radius: 40px;
+  padding: 20px;
+  letter-spacing: 4px;
+  font-size: 18px;
+  font-weight: 600;
+  border: 3px solid black;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+
 /*# sourceMappingURL=styles.css.map */
